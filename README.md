@@ -37,12 +37,14 @@ Bank-management-system/
 ├── src/                  # Application source code
 ├── supabase/
 │   └── migrations/      # Database migrations
-├── public/               # Public assets
+├── public/              # Public assets
 ├── index.html
 ├── package.json
 ├── tailwind.config.js
 ├── tsconfig.json
 └── README.md
+```
 
+## Live Application
 
-[Live Application](https://bank-management-syst-nkgh.bolt.host)
+[**Open Meridian Bank →**](https://bank-management-syst-nkgh.bolt.host)
