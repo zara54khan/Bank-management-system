@@ -1,3 +1,3 @@
 # Bank-management-system
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-gc2r3y97)
+[Live Application](https://bank-management-syst-nkgh.bolt.host)
